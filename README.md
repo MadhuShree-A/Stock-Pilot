@@ -1,6 +1,6 @@
-# AlphaTrader: State-Driven Stock Trading Strategy
+# StockPilot: State-Driven Stock Trading Strategy
 
-AlphaTrader is a Python-based stock trading strategy that uses market state classification and transition probabilities to make optimal buy decisions. The project simulates real-world trading behavior using historical stock price data and evaluates portfolio performance over time.
+StockPilotis a Python-based stock trading strategy that uses market state classification and transition probabilities to make optimal buy decisions. The project simulates real-world trading behavior using historical stock price data and evaluates portfolio performance over time.
 
 ---
 
@@ -41,7 +41,7 @@ Using historical transitions between these states, the model estimates probabili
 
 ##  Files in This Repository
 
-- `portfolio.ipynb` – Main implementation notebook  
+- `StockPilot.ipynb` – Main implementation notebook  
 - `README.md` – Project documentation  
 
 ---
